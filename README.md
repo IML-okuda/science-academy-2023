@@ -25,14 +25,19 @@
         - [画像プロジェクト用プログラム](https://github.com/IML-okuda/science-academy-2023/blob/main/src/Shooting%20Game-TM2Scratch.sb3)
         - [ポーズプロジェクト用プログラム](https://github.com/IML-okuda/science-academy-2023/blob/main/src/Shooting%20Game-TMPose2Scratch.sb3)
 2. 作成したモデルを読み込みます
-    1. `分類モデルのURL`に先ほどコピーしたリンクを`○○モデルのURL`に貼り付けます。
-    2. 一度実行することで、モデルが読み込まれます。
+    1. 先ほどコピーしたリンクを`○○モデルのURL`に貼り付けます。
+       
+       <img width=800 src="https://github.com/IML-okuda/science-academy-2023/assets/55625375/25d415f8-80aa-46cd-ac59-35479da0f745" />
+    3. **✅モデルを読み込むために、URLを貼り付けたら実行します**
+
+       <img width=800 src="https://github.com/IML-okuda/science-academy-2023/assets/55625375/75a76066-7b42-44a3-aac6-9ab39a2ab6f1"/>
+
 3. プログラム（スプライト）を編集します
-    - AI Manager
-        - しきい値を指定します
-        - クラス数を指定します（2 or 4 or 8）
-    - Player
-        - 「画像ラベル○○を受け取ったときに」のブロックを編集します。
+   |  AI Manager  |  Player  |
+   | --- | --- |
+   |  <img width=400 src="https://github.com/IML-okuda/science-academy-2023/assets/55625375/5ce54c90-d09d-4572-8c46-6f245f8b784c"/>  |  <img width=400 src="https://github.com/IML-okuda/science-academy-2023/assets/55625375/538d8616-9a3c-4674-8b29-3d37c86cc865"/>  |
+   | クラス数は（**2, 4, 8**） | 「画像ラベル○○を受け取ったときに」のブロックを編集します |
+
 4. 遊んでみましょう！
 
 # 🗃️ 参考資料

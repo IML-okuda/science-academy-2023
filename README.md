@@ -16,6 +16,10 @@
     - `共有可能なリンク`をコピーします
         - このリンクは作成したモデルを読み込む際に使います
 
+### 学習データの収集手順
+
+https://github.com/IML-okuda/science-academy-2023/assets/55625375/c3474a93-2030-45f8-ac3a-3b50f4d457dc
+
 ### クラスの追加・削除手順
 https://github.com/IML-okuda/science-academy-2023/assets/55625375/f8bab077-7219-4a61-8473-c33232d47012
 
@@ -35,6 +39,12 @@ https://github.com/IML-okuda/science-academy-2023/assets/55625375/52eb6674-a3f3-
     1. 先ほどコピーしたリンクを`○○モデルのURL`に貼り付けます。
        
        <img width=800 src="https://github.com/IML-okuda/science-academy-2023/assets/55625375/25d415f8-80aa-46cd-ac59-35479da0f745" />
+       
+       **貼り付け方（ペースト Ctrl+V）**
+       
+       <img width=500 src="https://github.com/IML-okuda/science-academy-2023/assets/55625375/3d5a45f2-fb55-47ed-b070-05039bbb59b9" />
+       
+       
     3. **✅モデルを読み込むために、URLを貼り付けたら実行します**
 
        <img width=800 src="https://github.com/IML-okuda/science-academy-2023/assets/55625375/75a76066-7b42-44a3-aac6-9ab39a2ab6f1"/>
@@ -49,5 +59,5 @@ https://github.com/IML-okuda/science-academy-2023/assets/55625375/52eb6674-a3f3-
 
 # 🗃️ 参考資料
 - [TeachableMachine 向け Scratch 拡張機能 (TM2Scratch) 使い方 (日本語版)](https://mirapro.mext.go.jp/assets/tm2scratch.pdf) 
-- [Teachable Machine Tutorial: Bananameter](https://medium.com/@warronbebster/teachable-machine-tutorial-bananameter-4bfffa765866)
-- [Teachable Machine Tutorial: Head Tilt](https://medium.com/@warronbebster/teachable-machine-tutorial-head-tilt-f4f6116f491)
+- [キーボードショートカットキーの使い方](http://keyboard-shortcuts.jp/windows/copy-paste-cut.html)
+- [Teachable Machine Tutorial 1: Gather](https://www.youtube.com/watch?v=DFBbSTvtpy4&t=20s)

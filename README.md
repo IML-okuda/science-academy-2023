@@ -16,9 +16,10 @@
     - `共有可能なリンク`をコピーします
         - このリンクは作成したモデルを読み込む際に使います
 
+### クラスの追加・削除手順
+https://github.com/IML-okuda/science-academy-2023/assets/55625375/f8bab077-7219-4a61-8473-c33232d47012
 
-
-
+### モデルのトレーニング・エクスポート手順
 https://github.com/IML-okuda/science-academy-2023/assets/55625375/52eb6674-a3f3-431a-871b-dcdf97d89001
 
 

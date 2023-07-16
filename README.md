@@ -39,23 +39,23 @@ https://github.com/IML-okuda/science-academy-2023/assets/55625375/52eb6674-a3f3-
     1. 先ほどコピーしたリンクを`○○モデルのURL`に貼り付けます。
        
        <img width=800 src="https://github.com/IML-okuda/science-academy-2023/assets/55625375/25d415f8-80aa-46cd-ac59-35479da0f745" />
-       
-       **貼り付け方（ペースト Ctrl+V）**
-       
-       <img width=500 src="https://github.com/IML-okuda/science-academy-2023/assets/55625375/3d5a45f2-fb55-47ed-b070-05039bbb59b9" />
-       
-       
+
+              
+       |  貼り付け方1（ペースト Ctrl+V）  |  貼り付け方2（右クリック）  |
+       | --- | --- |
+       | <img width=500 src="https://github.com/IML-okuda/science-academy-2023/assets/55625375/88d55d86-eb52-4f62-8f24-f8f44e8993d4" /> | <video src="https://github.com/IML-okuda/science-academy-2023/assets/55625375/7451972d-0610-4185-9d37-4d174d7b5b17"/>  |
+   
     3. **✅モデルを読み込むために、URLを貼り付けたら実行します**
 
        <img width=800 src="https://github.com/IML-okuda/science-academy-2023/assets/55625375/75a76066-7b42-44a3-aac6-9ab39a2ab6f1"/>
 
-3. プログラム（スプライト）を編集します
+4. プログラム（スプライト）を編集します
    |  AI Manager  |  Player  |
    | --- | --- |
    |  <img width=400 src="https://github.com/IML-okuda/science-academy-2023/assets/55625375/5ce54c90-d09d-4572-8c46-6f245f8b784c"/>  |  <img width=400 src="https://github.com/IML-okuda/science-academy-2023/assets/55625375/538d8616-9a3c-4674-8b29-3d37c86cc865"/>  |
    | クラス数は（**2, 4, 8**） | 「画像ラベル○○を受け取ったときに」のブロックを編集します |
 
-4. 遊んでみましょう！
+5. 遊んでみましょう！
 
 # 🗃️ 参考資料
 - [TeachableMachine 向け Scratch 拡張機能 (TM2Scratch) 使い方 (日本語版)](https://mirapro.mext.go.jp/assets/tm2scratch.pdf) 

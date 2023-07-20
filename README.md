@@ -1,6 +1,8 @@
 # science-academy-2023
 小学生向けサイエンスアカデミーのリポジトリです。
 
+[スライド資料](https://www.canva.com/design/DAFpFABVYUI/g-sD7lcGcHsHeeUqz-W67w/view?utm_content=DA[…]mpaign=designshare&utm_medium=link&utm_source=publishsharelink)
+
 # 📝 手順
 
 ## 1. 機械学習モデルを作成する🤖

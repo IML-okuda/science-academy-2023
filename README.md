@@ -8,7 +8,6 @@
 ## 1. 機械学習モデルを作成する🤖
 1. [TeachableMachine2.0(TM2)](https://teachablemachine.withgoogle.com/train/pose)を開く
     - [画像プロジェクトを作成する](https://teachablemachine.withgoogle.com/train/image)
-    - [ポーズプロジェクトを作成する](https://teachablemachine.withgoogle.com/train/pose)
 2. 学習データを用意します
     - 必要な数だけクラスを追加します
     - それぞれのクラスに名前をつけ、サンプルを追加します
@@ -36,7 +35,6 @@ https://github.com/IML-okuda/science-academy-2023/assets/55625375/52eb6674-a3f3-
 1. プロジェクトを読み込む
     - プログラムは以下から入手できます。
         - [画像プロジェクト用プログラム](https://github.com/IML-okuda/science-academy-2023/blob/main/src/Shooting%20Game-TM2Scratch.sb3)
-        - [ポーズプロジェクト用プログラム](https://github.com/IML-okuda/science-academy-2023/blob/main/src/Shooting%20Game-TMPose2Scratch.sb3)
 2. 作成したモデルを読み込みます
     1. 先ほどコピーしたリンクを`○○モデルのURL`に貼り付けます。
        

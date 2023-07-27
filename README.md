@@ -1,7 +1,7 @@
 # science-academy-2023
 小学生向けサイエンスアカデミーのリポジトリです。
 
-[スライド資料](https://www.canva.com/design/DAFpFABVYUI/g-sD7lcGcHsHeeUqz-W67w/view?utm_content=DA[…]mpaign=designshare&utm_medium=link&utm_source=publishsharelink)
+[**スライド資料はこちらからご覧になれます**](https://www.canva.com/design/DAFpFABVYUI/g-sD7lcGcHsHeeUqz-W67w/view?utm_content=DA[…]mpaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
 # 📝 手順
 
@@ -36,7 +36,7 @@ https://github.com/IML-okuda/science-academy-2023/assets/55625375/52eb6674-a3f3-
     - プログラムは以下から入手できます。
         - [画像プロジェクト用プログラム](https://github.com/IML-okuda/science-academy-2023/blob/main/src/Shooting%20Game-TM2Scratch.sb3)
 2. 作成したモデルを読み込みます
-    1. 先ほどコピーしたリンクを`○○モデルのURL`に貼り付けます。
+    1. 先ほどコピーしたリンクを`画像モデルのURL`に貼り付けます。
        
        <img width=800 src="https://github.com/IML-okuda/science-academy-2023/assets/55625375/25d415f8-80aa-46cd-ac59-35479da0f745" />
 

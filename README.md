@@ -6,7 +6,7 @@
 # 📝 手順
 
 ## 1. 機械学習モデルを作成する🤖
-1. [TeachableMachine2.0(TM2)](https://teachablemachine.withgoogle.com/train/pose)を開く
+1. [TeachableMachine2.0(TM2)](https://teachablemachine.withgoogle.com/train/)を開く
     - [画像プロジェクトを作成する](https://teachablemachine.withgoogle.com/train/image)
 2. 学習データを用意します
     - 必要な数だけクラスを追加します
